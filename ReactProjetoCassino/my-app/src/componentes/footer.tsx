@@ -8,7 +8,7 @@ export function Footer() {
           
           {/* Lado Esquerdo: Logo e Direitos */}
           <div className="col-12 md:col-6 text-center md:text-left mb-4 md:mb-0">
-            <span className="font-bold text-xl text-white block mb-2">🎰 Casino App</span>
+            <span className="font-bold text-xl text-white block mb-2">🎰 Cassino App</span>
             <p className="text-sm m-0">&copy; 2026 Casino App. Todos os direitos reservados.</p>
           </div>
 

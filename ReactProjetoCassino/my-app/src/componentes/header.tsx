@@ -17,7 +17,7 @@ export function Header() {
     }
   ];
 
-  const start = <span className="font-bold text-xl ml-2">🎰 Casino App</span>;
+  const start = <span className="font-bold text-xl ml-2">🎰 Cassino App</span>;
 
   return (
     <div className="card">

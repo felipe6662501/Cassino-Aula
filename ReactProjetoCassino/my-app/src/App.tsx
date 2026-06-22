@@ -14,7 +14,7 @@ function App() {
       <Header />
       
       <main className="flex-grow-1 p-4 max-w-7xl mx-auto w-full">
-        {/* Renderização Condicional */}
+        {/* Renderização Caondicional */}
         {currentScreen === 'home' ? (
           <>
             <Banner /> 
